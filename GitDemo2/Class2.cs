@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitDemo2
 {
-    // Hello World
-    public class Class1
+    class Class2
     {
-        public string Id { get; set; }
     }
 }
