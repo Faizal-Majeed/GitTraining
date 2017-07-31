@@ -8,5 +8,6 @@ namespace GitDemo2
 {
     class Class2
     {
+        // New changes
     }
 }
