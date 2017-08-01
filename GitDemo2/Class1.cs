@@ -11,5 +11,7 @@ namespace GitDemo2
     {
         public string Id { get; set; }
         //stash changes included
+
+        //Changes New
     }
 }
